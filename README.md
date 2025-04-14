@@ -2,7 +2,13 @@
 
 Here are a few basic yet useful python scripts to demonstrate some basic knowledge and functionality of python.
 
-Try out my [Simple Python Cheat Sheet](https://github.com/rpriven/basic-python-projects/blob/main/simple-python-cheat-sheet.py) or check out additional simple projects below:
+## Cheat Sheets
+
+- [Simple Python Cheat Sheet](https://github.com/rpriven/basic-python-projects/blob/main/simple-python-cheat-sheet.py)
+- [Intermediate Python Cheat Sheet](https://github.com/rpriven/basic-python-projects/blob/main/intermediate-python-cheat-sheet.py)
+- [Advanced Python Cheat Sheet](https://github.com/rpriven/basic-python-projects/blob/main/advanced-python-cheat-sheet.py)
+
+## Basic Projects
 
 - [Basic Password Generator](https://github.com/rpriven/basic-python-projects/blob/main/basic-password-generator.py)
 - [Directory File Counter](https://github.com/rpriven/basic-python-projects/blob/main/directory-file-counter.py)
